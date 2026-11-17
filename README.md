@@ -44,7 +44,7 @@ Từ thư mục gốc của Frappe Bench (`frappe-bench`), chạy các lệnh sa
 
 ```bash
 # 1. Tải app về bench (từ git repository hoặc thư mục mã nguồn)
-bench get-app https://github.com/your-username/order_management.git
+bench get-app https://github.com/ThanhLuuv/frappe_order_management.git
 # Hoặc nếu cài từ thư mục local:
 # bench get-app /path/to/order_management
 

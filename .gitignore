@@ -10,3 +10,5 @@ build/
 .idea/
 *.db
 demo_database.db
+node_modules/
+package-lock.json

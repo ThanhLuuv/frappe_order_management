@@ -1,0 +1,23 @@
+{
+  "name": "order-management-app",
+  "version": "1.0.0",
+  "description": "Ứng dụng quản lý đơn hàng đơn giản đáp ứng bài test lập trình viên ERP/CRM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "erp",
+    "crm",
+    "order-management",
+    "express",
+    "nodejs"
+  ],
+  "author": "Thanh Luu",
+  "license": "MIT"
+}
